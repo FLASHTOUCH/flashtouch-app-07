@@ -1,0 +1,14 @@
+{
+  "generator-angular-famous-ionic": {
+    "filenameCase": "snake",
+    "filenameSuffix": false,
+    "appname": "flashtouchApp07",
+    "clientFolder": "client",
+    "ionic": true,
+    "famous": true,
+    "ngCordova": true,
+    "fontawesome": false,
+    "bootstrap": false,
+    "material": true
+  }
+}
