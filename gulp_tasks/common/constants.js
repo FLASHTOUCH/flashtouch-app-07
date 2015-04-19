@@ -14,7 +14,7 @@ module.exports = function() {
         targetSuffix: '{{targetSuffix}}',
         mode: '{{mode}}',
         clientFolder: clientFolder,
-        repository: 'https://github.com/user/repo',
+        repository: 'https://github.com/FLASHTOUCH/flashtouch-app-07',
         versionFiles: ['./package.json', './bower.json', './' + clientFolder + '/config*.xml'],
         growly: {
             notify: false,
